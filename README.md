@@ -10,7 +10,7 @@ Esta es la interfaz principal, donde podemos encontrar 2 carros disponibles para
 
 ![alt text](https://github.com/AndyNinasunta/Tarea_Api_PayPhones/blob/master/CAPTURAS/Interfaz%20principal.PNG)
 
-Una vez se elije comprar un carro, la app redirige al usuario a la aplicacion PayPhone, para que decidad realizar o no el pago.
+Una vez se elije comprar un carro, la app redirige al usuario a la aplicacion PayPhone, para que decida realizar o no el pago.
 
 ![alt text](https://github.com/AndyNinasunta/Tarea_Api_PayPhones/blob/master/CAPTURAS/Comprando%20primer%20carro.PNG)
 
